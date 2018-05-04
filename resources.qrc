@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dead.png</file>
+        <file>tick.png</file>
+        <file>DKIcon.png</file>
+        <file>druidIcon.png</file>
+        <file>hunterIcon.png</file>
+        <file>mageIcon.png</file>
+        <file>monkIcon.png</file>
+        <file>paladinIcon.png</file>
+        <file>priestIcon.png</file>
+        <file>rogueIcon.png</file>
+        <file>shamanIcon.png</file>
+        <file>warlockIcon.png</file>
+        <file>warriorIcon.png</file>
+        <file>demonHunterIcon.jpg</file>
+        <file>Database.sql</file>
+        <file>mountTrackerIcon.jpg</file>
+    </qresource>
+</RCC>
